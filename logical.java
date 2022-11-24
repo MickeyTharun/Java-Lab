@@ -1,7 +1,5 @@
 package firstproject;
-
 import java.util.Scanner;
-
 public class logical {
 		public static void main(String[]args) {
 			int value;
